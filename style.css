@@ -1,0 +1,13 @@
+#countlabel{
+    display: block !important;
+    text-align: center;
+    font-size: 50px;
+}
+.ctx{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ctx button{
+    margin: 5px;
+}
